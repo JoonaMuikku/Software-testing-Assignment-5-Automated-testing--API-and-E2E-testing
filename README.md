@@ -1,3 +1,4 @@
 Automated testing - API and E2E testing // 5. assignment // t3mujo00
 
-<img width="827" height="580" alt="image" src="https://github.com/user-attachments/assets/00a67604-3f45-4fcf-b640-67de8446672f" />
+<img width="746" height="541" alt="image" src="https://github.com/user-attachments/assets/7cf7f682-3877-4a20-989a-4487774e5162" />
+
